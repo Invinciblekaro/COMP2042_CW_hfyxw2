@@ -1,3 +1,27 @@
 .greylabel {
     -fx-text-fill: #212121;
 }
+
+.button {
+    /*设置背景颜色渐变*/
+    -fx-background-color: linear-gradient(to right, #00fff7, #9500ff);
+
+    /*设置圆角*/
+    -fx-background-radius: 25;
+    -fx-border-radius: 25;
+}
+
+#cu-background1 {
+    -fx-background-image: url(../image/bg3.jpg);
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+#cu-background2 {
+    -fx-background-image: url(../image/bg4.jpg);
+}
+
+.label {
+    -fx-text-base-color: white;
+}

@@ -100,7 +100,9 @@ public class LevelCell extends ListCell<Level> {
             HBox.setMargin(labelAuthor, new Insets(0, 0, 0, 10));
 
             hbox.setAlignment(Pos.CENTER);
-            hbox.setStyle("-fx-background-color: " + Colors.SELECT_LEVEL);
+            hbox.setStyle("-fx-background-color: " + Colors.SELECT_LEVEL + ";" +
+                    "   -fx-background-radius: 25;" +
+                    "    -fx-border-radius: 25;");
             hbox.setPadding(new Insets(15));
 
             setGraphic(hbox);

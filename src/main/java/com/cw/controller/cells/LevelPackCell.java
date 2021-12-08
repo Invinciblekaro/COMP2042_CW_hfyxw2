@@ -50,7 +50,9 @@ public class LevelPackCell extends ListCell<LevelPack> {
             HBox.setMargin(labelAuthor, new Insets(0, 0, 0, 10));
 
             hbox.setAlignment(Pos.CENTER);
-            hbox.setStyle("-fx-background-color: " + Colors.SELECT_LEVELPACK);
+            hbox.setStyle("-fx-background-color: " + Colors.SELECT_LEVELPACK +";" +
+                    "   -fx-background-radius: 25;" +
+                    "    -fx-border-radius: 25;");
             hbox.setPadding(new Insets(15));
 
             hbox.setMaxWidth(maxWidth);

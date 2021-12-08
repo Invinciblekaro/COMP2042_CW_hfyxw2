@@ -1,0 +1,1063 @@
+[INFO] - 05.12.21 - 22:49:44 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 05.12.21 - 22:49:44 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 05.12.21 - 22:49:44 - com.cw.controller.AppController.init:84  -  successfully started
+12月 05, 2021 10:50:03 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 05, 2021 10:50:04 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 05.12.21 - 22:50:07 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 05, 2021 10:50:12 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 05.12.21 - 22:50:17 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 05, 2021 10:50:47 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 05.12.21 - 22:50:50 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 05, 2021 10:51:29 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 05.12.21 - 22:51:32 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 05, 2021 10:51:44 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 05.12.21 - 22:51:48 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 05, 2021 10:51:54 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 06.12.21 - 16:08:18 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 16:08:18 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 16:08:19 - com.cw.controller.AppController.init:84  -  successfully started
+12月 06, 2021 4:08:20 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 06, 2021 4:08:22 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 06, 2021 4:08:44 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 06.12.21 - 16:09:24 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 16:09:24 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 16:09:25 - com.cw.controller.AppController.init:84  -  successfully started
+12月 06, 2021 4:09:27 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 06, 2021 4:09:28 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 06, 2021 4:09:40 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 06.12.21 - 16:27:00 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 16:27:00 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 16:27:01 - com.cw.controller.AppController.init:84  -  successfully started
+12月 06, 2021 4:27:03 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 06, 2021 4:27:04 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 06.12.21 - 17:13:41 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 17:13:41 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 17:13:42 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 06.12.21 - 20:58:24 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 20:58:24 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 20:58:25 - com.cw.controller.AppController.init:84  -  successfully started
+12月 06, 2021 8:58:27 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+Exception in thread "JavaFX Application Thread" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at javafx.fxml/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1862)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1729)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8886)
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3856)
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1851)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2584)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:409)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:299)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:447)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:412)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:446)
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:556)
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:942)
+	at javafx.graphics/com.sun.glass.ui.mac.MacView.notifyMouse(MacView.java:127)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at javafx.base/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:273)
+	at javafx.fxml/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:83)
+	at javafx.fxml/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1859)
+	... 48 more
+Caused by: java.lang.ClassCastException: class com.cw.controller.HighScoreListController cannot be cast to class com.cw.controller.SettingsController (com.cw.controller.HighScoreListController and com.cw.controller.SettingsController are in module com.cw of loader 'app')
+	at com.cw/com.cw.controller.AppController.showHighScoreList(AppController.java:145)
+	... 59 more
+[INFO] - 06.12.21 - 20:59:18 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 06.12.21 - 20:59:18 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 06.12.21 - 20:59:18 - com.cw.controller.AppController.init:84  -  successfully started
+12月 06, 2021 8:59:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 09:28:25 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 09:28:25 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 09:28:26 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 9:28:28 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 07, 2021 9:28:31 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 11:17:50 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 11:17:50 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 11:17:51 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 11:18:00 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+Exception in thread "JavaFX Application Thread" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at javafx.fxml/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1862)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1729)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8886)
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208)
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3856)
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1851)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2584)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:409)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:299)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:447)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:412)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:446)
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:556)
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:942)
+	at javafx.graphics/com.sun.glass.ui.mac.MacView.notifyMouse(MacView.java:127)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at javafx.base/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:273)
+	at javafx.fxml/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:83)
+	at javafx.fxml/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1859)
+	... 48 more
+Caused by: java.lang.NullPointerException: Cannot invoke "com.cw.game.levels.LevelPack.getLevels()" because the return value of "com.cw.game.Game.getLevelPack()" is null
+	at com.cw/com.cw.controller.HighScoreListController.reload(HighScoreListController.java:39)
+	at com.cw/com.cw.controller.HighScoreListController.init(HighScoreListController.java:31)
+	at com.cw/com.cw.controller.AppController.showHighScoreList(AppController.java:146)
+	... 59 more
+[INFO] - 07.12.21 - 11:22:50 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 11:22:50 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 11:22:51 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 11:22:53 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 11:37:32 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 11:37:32 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 11:37:32 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 11:37:35 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 12:36:43 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:36:43 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:36:44 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 12:43:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:43:34 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:43:35 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 12:43:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 12:48:15 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:48:15 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:48:15 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 12:48:25 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 12:48:27 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 12:57:17 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:57:17 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:57:18 - com.cw.controller.AppController.init:83  -  successfully started
+12月 07, 2021 12:57:19 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 12:57:36 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 12:57:55 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:57:55 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:57:56 - com.cw.controller.AppController.init:83  -  successfully started
+12月 07, 2021 12:57:58 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 12:58:58 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:58:58 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:58:59 - com.cw.controller.AppController.init:83  -  successfully started
+12月 07, 2021 12:59:00 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 12:59:19 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 12:59:19 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 12:59:20 - com.cw.controller.AppController.init:83  -  successfully started
+[INFO] - 07.12.21 - 13:00:32 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 13:00:32 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 13:00:33 - com.cw.controller.AppController.init:83  -  successfully started
+Your name: walter
+Your name: walter
+12月 07, 2021 1:00:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 13:03:33 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 13:03:33 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 13:03:34 - com.cw.controller.AppController.init:84  -  successfully started
+Your name: nobody
+[INFO] - 07.12.21 - 13:05:05 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 13:05:05 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 13:05:06 - com.cw.controller.AppController.init:84  -  successfully started
+Your name: nobody
+12月 07, 2021 1:05:11 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 14:07:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 14:07:34 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 14:07:35 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 2:07:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 14:15:20 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 14:15:20 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 14:15:21 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 2:15:24 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 16:41:06 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 16:41:06 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 16:41:08 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 4:41:12 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 4:41:13 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 16:41:17 - com.cw.controller.LevelController.startGame:134  -  ball start
+12月 07, 2021 4:43:09 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 17:56:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 17:56:34 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 17:56:35 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 5:56:37 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 5:56:38 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 17:56:41 - com.cw.controller.LevelController.startGame:137  -  ball start
+Exception in thread "JavaFX Application Thread" java.lang.NullPointerException: Cannot invoke "com.cw.game.leaderboard.Leaderboard.getPlayerInfos()" because "leaderboard" is null
+	at com.cw/com.cw.controller.LevelController.genLeaderboard(LevelController.java:958)
+	at com.cw/com.cw.controller.LevelController.win(LevelController.java:940)
+	at com.cw/com.cw.controller.LevelController.brickCollisionDetection(LevelController.java:714)
+	at com.cw/com.cw.controller.LevelController$1.handle(LevelController.java:483)
+	at javafx.graphics/javafx.animation.AnimationTimer$AnimationTimerReceiver.lambda$handle$0(AnimationTimer.java:57)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/javafx.animation.AnimationTimer$AnimationTimerReceiver.handle(AnimationTimer.java:56)
+	at javafx.graphics/com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:357)
+	at javafx.graphics/com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:559)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:543)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:536)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$11(QuantumToolkit.java:342)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+[INFO] - 07.12.21 - 18:42:21 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:42:21 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:42:22 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 6:42:24 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 6:42:26 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 18:42:29 - com.cw.controller.LevelController.startGame:137  -  ball start
+[INFO] - 07.12.21 - 18:46:20 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:46:20 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:46:21 - com.cw.controller.AppController.init:84  -  successfully started
+[ERROR] - 07.12.21 - 18:46:39 - com.cw.controller.AppController.showCommandLine:187  -  javafx.fxml.LoadException: 
+/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/target/classes/view/CommandLineGUI.fxml:7
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2707)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:945)
+	at javafx.fxml/javafx.fxml.FXMLLoader$InstanceDeclarationElement.processAttribute(FXMLLoader.java:982)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processStartElement(FXMLLoader.java:229)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:754)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2808)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2634)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2517)
+	at com.cw/com.cw.utils.Tool.loadFXML(Tool.java:48)
+	at com.cw/com.cw.commandLine.CommandLine.showCommandLine(CommandLine.java:75)
+	at com.cw/com.cw.controller.AppController.showCommandLine(AppController.java:184)
+	at com.cw/com.cw.controller.AppController.lambda$init$0(AppController.java:63)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$KeyHandler.process(Scene.java:4064)
+	at javafx.graphics/javafx.scene.Scene.processKeyEvent(Scene.java:2123)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.keyEvent(Scene.java:2591)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:217)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:149)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleKeyEvent$1(GlassViewEventHandler.java:248)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:412)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleKeyEvent(GlassViewEventHandler.java:247)
+	at javafx.graphics/com.sun.glass.ui.View.handleKeyEvent(View.java:547)
+	at javafx.graphics/com.sun.glass.ui.View.notifyKey(View.java:971)
+Caused by: java.lang.IllegalAccessException: class javafx.fxml.FXMLLoader$ValueElement (in module javafx.fxml) cannot access class com.cw.commandLine.CommandLineController (in module com.cw) because module com.cw does not export com.cw.commandLine to module javafx.fxml
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:489)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:347)
+	at java.base/java.lang.Class.newInstance(Class.java:645)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:938)
+	... 35 more
+
+[INFO] - 07.12.21 - 18:46:39 - com.cw.controller.AppController.lambda$init$0:64  -  opened debug console
+[INFO] - 07.12.21 - 18:47:50 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:47:50 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:47:51 - com.cw.controller.AppController.init:84  -  successfully started
+[ERROR] - 07.12.21 - 18:47:56 - com.cw.controller.AppController.showCommandLine:187  -  javafx.fxml.LoadException: 
+/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/target/classes/view/CommandLineGUI.fxml:7
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2707)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:945)
+	at javafx.fxml/javafx.fxml.FXMLLoader$InstanceDeclarationElement.processAttribute(FXMLLoader.java:982)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processStartElement(FXMLLoader.java:229)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:754)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2808)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2634)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2517)
+	at com.cw/com.cw.commandLine.CommandLine.showCommandLine(CommandLine.java:78)
+	at com.cw/com.cw.controller.AppController.showCommandLine(AppController.java:184)
+	at com.cw/com.cw.controller.AppController.lambda$init$0(AppController.java:63)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$KeyHandler.process(Scene.java:4064)
+	at javafx.graphics/javafx.scene.Scene.processKeyEvent(Scene.java:2123)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.keyEvent(Scene.java:2591)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:217)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:149)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleKeyEvent$1(GlassViewEventHandler.java:248)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:412)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleKeyEvent(GlassViewEventHandler.java:247)
+	at javafx.graphics/com.sun.glass.ui.View.handleKeyEvent(View.java:547)
+	at javafx.graphics/com.sun.glass.ui.View.notifyKey(View.java:971)
+Caused by: java.lang.IllegalAccessException: class javafx.fxml.FXMLLoader$ValueElement (in module javafx.fxml) cannot access class com.cw.commandLine.CommandLineController (in module com.cw) because module com.cw does not export com.cw.commandLine to module javafx.fxml
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:489)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:347)
+	at java.base/java.lang.Class.newInstance(Class.java:645)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:938)
+	... 34 more
+
+[INFO] - 07.12.21 - 18:47:56 - com.cw.controller.AppController.lambda$init$0:64  -  opened debug console
+[INFO] - 07.12.21 - 18:50:08 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:50:08 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:50:09 - com.cw.controller.AppController.init:84  -  successfully started
+[ERROR] - 07.12.21 - 18:50:14 - com.cw.controller.AppController.showCommandLine:187  -  javafx.fxml.LoadException: 
+/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/target/classes/view/CommandLineGUI.fxml:7
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2707)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:945)
+	at javafx.fxml/javafx.fxml.FXMLLoader$InstanceDeclarationElement.processAttribute(FXMLLoader.java:982)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processStartElement(FXMLLoader.java:229)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:754)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2808)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2634)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2517)
+	at com.cw/com.cw.commandLine.CommandLine.showCommandLine(CommandLine.java:78)
+	at com.cw/com.cw.controller.AppController.showCommandLine(AppController.java:184)
+	at com.cw/com.cw.controller.AppController.lambda$init$0(AppController.java:63)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics/javafx.scene.Scene$KeyHandler.process(Scene.java:4064)
+	at javafx.graphics/javafx.scene.Scene.processKeyEvent(Scene.java:2123)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.keyEvent(Scene.java:2591)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:217)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$KeyEventNotification.run(GlassViewEventHandler.java:149)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleKeyEvent$1(GlassViewEventHandler.java:248)
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:412)
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleKeyEvent(GlassViewEventHandler.java:247)
+	at javafx.graphics/com.sun.glass.ui.View.handleKeyEvent(View.java:547)
+	at javafx.graphics/com.sun.glass.ui.View.notifyKey(View.java:971)
+Caused by: java.lang.IllegalAccessException: class javafx.fxml.FXMLLoader$ValueElement (in module javafx.fxml) cannot access class com.cw.commandLine.CommandLineController (in module com.cw) because module com.cw does not export com.cw.commandLine to module javafx.fxml
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:489)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:347)
+	at java.base/java.lang.Class.newInstance(Class.java:645)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processAttribute(FXMLLoader.java:938)
+	... 34 more
+
+[INFO] - 07.12.21 - 18:50:14 - com.cw.controller.AppController.lambda$init$0:64  -  opened debug console
+[INFO] - 07.12.21 - 18:51:23 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:51:23 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:51:24 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 18:51:27 - com.cw.controller.AppController.lambda$init$0:64  -  opened debug console
+12月 07, 2021 6:51:31 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 6:52:26 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 18:52:28 - com.cw.controller.LevelController.startGame:137  -  ball start
+[INFO] - 07.12.21 - 18:52:32 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+12月 07, 2021 6:52:47 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 18:59:29 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 18:59:29 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 18:59:30 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:00:19 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:00:19 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:00:20 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:01:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:01:34 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:01:34 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:02:00 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:02:00 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:02:01 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:10:48 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:10:48 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:10:49 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:14:08 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:14:08 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:14:09 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 07.12.21 - 19:15:25 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:15:25 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:15:26 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 7:15:31 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 7:15:33 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 19:15:36 - com.cw.controller.LevelSelectController$1.handle:64  -  openend debug console
+[INFO] - 07.12.21 - 19:15:42 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 19:15:43 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:15:44 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 19:15:45 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 19:15:45 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 19:15:45 - com.cw.game.Game.hitsWall:226  -  RIGHT-WALL
+[DEBUG] - 07.12.21 - 19:15:46 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 56
+[DEBUG] - 07.12.21 - 19:15:47 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:15:48 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:15:48 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 19:15:49 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:15:50 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 55
+[DEBUG] - 07.12.21 - 19:15:50 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 19:15:51 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 58
+[INFO] - 07.12.21 - 19:15:51 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+[INFO] - 07.12.21 - 19:21:11 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:21:11 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:21:12 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 7:21:13 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 19:21:15 - com.cw.controller.LevelPackSelectController.lambda$init$0:67  -  openend debug console
+12月 07, 2021 7:21:18 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 19:21:22 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 19:21:23 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:21:24 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 19:21:25 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:21:25 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 19:21:25 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 19:21:26 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 55
+[DEBUG] - 07.12.21 - 19:21:27 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 19:21:28 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 19:21:28 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 19:21:29 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 19:21:30 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 19:21:30 - com.cw.game.Game.collides:289  -  RIGHT
+[DEBUG] - 07.12.21 - 19:21:30 - com.cw.game.Game.collides:279  -  LEFT
+[DEBUG] - 07.12.21 - 19:21:31 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 54
+[DEBUG] - 07.12.21 - 19:21:31 - com.cw.game.Game.hitsWall:247  -  TOP-WALL
+[DEBUG] - 07.12.21 - 19:21:31 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 20 x2  =  70
+[DEBUG] - 07.12.21 - 19:21:32 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 19:21:33 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[INFO] - 07.12.21 - 19:21:33 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+[INFO] - 07.12.21 - 19:58:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 19:58:34 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 19:58:35 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 7:58:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:04:40 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:04:40 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:04:40 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:04:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:08:27 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:08:27 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:08:27 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:08:29 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:10:36 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:10:36 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:10:36 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:10:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:13:01 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:13:02 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:13:02 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:13:04 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 07, 2021 8:13:28 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:13:29 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 20:13:33 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 20:13:34 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[INFO] - 07.12.21 - 20:13:35 - com.cw.controller.LevelController.lambda$init$1:166  -  openend debug console
+[DEBUG] - 07.12.21 - 20:13:35 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 20:13:36 - com.cw.game.Game.collides:289  -  RIGHT
+[DEBUG] - 07.12.21 - 20:13:36 - com.cw.game.Game.collides:289  -  RIGHT
+[DEBUG] - 07.12.21 - 20:13:36 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:13:36 - com.cw.game.Game.collides:289  -  RIGHT
+[DEBUG] - 07.12.21 - 20:13:36 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 45
+[DEBUG] - 07.12.21 - 20:13:37 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:13:38 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:13:39 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:13:39 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 40 x4  =  200
+[INFO] - 07.12.21 - 20:13:39 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+12月 07, 2021 8:13:48 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 20:13:51 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 20:13:52 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:13:53 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:13:54 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:13:54 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:13:55 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:13:55 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 58
+[DEBUG] - 07.12.21 - 20:13:56 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[INFO] - 07.12.21 - 20:13:56 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+12月 07, 2021 8:14:01 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 20:14:05 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 20:14:06 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:14:07 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 20:14:08 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:14:08 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 20:14:08 - com.cw.game.Game.hitsWall:226  -  RIGHT-WALL
+[DEBUG] - 07.12.21 - 20:14:09 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[INFO] - 07.12.21 - 20:14:10 - com.cw.game.leaderboard.LeaderboardHandler.save:73  -  save leaderboard
+12月 07, 2021 8:14:13 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:14:16 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:14:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:16:42 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:16:42 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:16:43 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:16:45 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 20:18:44 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 20:18:44 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 20:18:45 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 8:18:47 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:18:48 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 20:19:26 - com.cw.controller.LevelSelectController$1.handle:64  -  openend debug console
+[INFO] - 07.12.21 - 20:19:35 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 20:19:36 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:37 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:38 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:38 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:39 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:19:39 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 55
+[DEBUG] - 07.12.21 - 20:19:40 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:41 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:41 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:42 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+12月 07, 2021 8:19:43 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 20:19:46 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 20:19:47 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:48 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:49 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:49 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 57
+[DEBUG] - 07.12.21 - 20:19:50 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:19:50 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:51 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:51 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:52 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:52 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:19:52 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 58
+[DEBUG] - 07.12.21 - 20:19:52 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:53 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 20:19:53 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:53 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 100 x6  =  710
+[DEBUG] - 07.12.21 - 20:19:54 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:54 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:55 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:55 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:55 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 140 x6  =  1690
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.game.Game.collides:286  -  PADDLE-RIGHT
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:56 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:57 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:19:57 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 110 x5  =  2350
+[DEBUG] - 07.12.21 - 20:19:57 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:57 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:19:58 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:19:58 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:59 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:59 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 160 x6  =  3470
+[DEBUG] - 07.12.21 - 20:19:59 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:19:59 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:19:59 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:20:00 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:00 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:00 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:01 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 100 x4  =  3970
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 1
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 1
+[DEBUG] - 07.12.21 - 20:20:02 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:03 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:03 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:04 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:04 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 60 x6  =  4390
+[DEBUG] - 07.12.21 - 20:20:04 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:05 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:05 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:06 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:06 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 70 x4  =  4740
+[DEBUG] - 07.12.21 - 20:20:06 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:06 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:06 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:07 - com.cw.game.Game.collides:279  -  LEFT
+[DEBUG] - 07.12.21 - 20:20:07 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:07 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:08 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:08 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 250 x11  =  7740
+[DEBUG] - 07.12.21 - 20:20:08 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:08 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:09 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:10 - com.cw.game.Game.hitsWall:247  -  TOP-WALL
+[DEBUG] - 07.12.21 - 20:20:10 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:10 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:11 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:11 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:11 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 1
+[DEBUG] - 07.12.21 - 20:20:11 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:11 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.game.Game.collides:279  -  LEFT
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:12 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:13 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:13 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 140 x8  =  9000
+[DEBUG] - 07.12.21 - 20:20:13 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:14 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:14 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:15 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:15 - com.cw.game.Game.hitsWall:247  -  TOP-WALL
+[DEBUG] - 07.12.21 - 20:20:15 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 20:20:16 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:17 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:17 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 20:20:17 - com.cw.controller.LevelController.movePowerUps:808  -  Collected PowerUp with ID = 4
+[DEBUG] - 07.12.21 - 20:20:17 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 20:20:17 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 20:20:18 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 20:20:18 - com.cw.game.Game.collides:279  -  LEFT
+[DEBUG] - 07.12.21 - 20:20:18 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 57
+[DEBUG] - 07.12.21 - 20:20:19 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[INFO] - 07.12.21 - 20:20:20 - com.cw.game.leaderboard.LeaderboardHandler.save:75  -  save leaderboard
+[DEBUG] - 07.12.21 - 20:20:20 - com.cw.game.Game.applyMultiplicator:137  -  Applied multiplicator: 150 x9  =  10500
+12月 07, 2021 8:20:24 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:20:26 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 8:20:33 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 21:37:45 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 21:37:45 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 21:37:46 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 9:37:48 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 21:38:06 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 21:38:06 - com.cw.App.init:66  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 21:38:06 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 9:38:09 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+Your name: nobody
+12月 07, 2021 9:38:20 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 22:14:08 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 22:14:08 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 22:14:08 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 10:14:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 07, 2021 10:14:29 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 07, 2021 10:16:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 07, 2021 10:16:13 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+Your name: nobody
+12月 07, 2021 10:16:23 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 10:16:44 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 07.12.21 - 22:16:52 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 07.12.21 - 22:16:53 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:16:54 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:16:55 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 22:16:55 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 22:16:55 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 22:16:56 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 56
+[DEBUG] - 07.12.21 - 22:16:57 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 22:16:58 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 22:16:58 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 22:16:59 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 22:17:00 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:01 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 22:17:01 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 07.12.21 - 22:17:02 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:03 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 22:17:03 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 07.12.21 - 22:17:04 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:05 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:05 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 22:17:06 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:07 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:07 - com.cw.game.Game.collides:294  -  PADDLE
+[DEBUG] - 07.12.21 - 22:17:08 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:09 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 07.12.21 - 22:17:09 - com.cw.game.Game.hitsWall:233  -  LEFT-WALL
+[DEBUG] - 07.12.21 - 22:17:09 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 07.12.21 - 22:17:10 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[INFO] - 07.12.21 - 22:17:11 - com.cw.controller.LevelController.lambda$init$1:166  -  openend debug console
+[DEBUG] - 07.12.21 - 22:17:11 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 47
+[DEBUG] - 07.12.21 - 22:17:12 - com.cw.game.Game.hitsWall:240  -  BOTTOM-WALL
+[DEBUG] - 07.12.21 - 22:17:12 - com.cw.controller.LevelController$1.handle:396  -  Life lost (6 lives remaining)
+[INFO] - 07.12.21 - 22:17:13 - com.cw.game.leaderboard.LeaderboardHandler.save:75  -  save leaderboard
+12月 07, 2021 10:17:21 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 10:17:23 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 07, 2021 10:17:25 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 07.12.21 - 22:49:44 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 07.12.21 - 22:49:44 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 07.12.21 - 22:49:45 - com.cw.controller.AppController.init:84  -  successfully started
+12月 07, 2021 10:49:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 08.12.21 - 09:30:06 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 09:30:06 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 09:30:07 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 9:30:20 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 08.12.21 - 09:31:12 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 09:31:12 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 09:31:13 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 09:31:23 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 09:31:23 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 09:31:24 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 09:32:03 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 09:32:04 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 09:32:04 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 11:08:08 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 11:08:08 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 11:08:09 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 11:08:21 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 11:08:25 上午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+Your name: nobody
+12月 08, 2021 11:08:36 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:08:50 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:08:57 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 11:11:40 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 11:11:40 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 11:11:41 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 11:11:42 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:11:44 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:11:48 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 11:13:27 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 11:13:27 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 11:13:28 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 11:13:29 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:13:46 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 11:14:37 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 11:14:37 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 11:14:38 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 11:14:39 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:14:41 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 11:15:00 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 11:15:01 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 11:15:01 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 11:15:05 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:15:07 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 11:15:12 上午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 13:52:48 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 13:52:48 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 13:52:49 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 13:54:01 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 13:54:01 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[ERROR] - 08.12.21 - 13:54:01 - com.cw.App.start:49  -  javafx.fxml.LoadException: 
+/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/target/classes/view/AppGUI.fxml:49
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2707)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2685)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2517)
+	at com.cw/com.cw.App.start(App.java:28)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+Caused by: java.lang.IllegalArgumentException: Unable to coerce file:/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/target/classes/image/bg1.JPG to class javafx.scene.layout.Background.
+	at javafx.fxml/com.sun.javafx.fxml.BeanAdapter.coerce(BeanAdapter.java:496)
+	at javafx.fxml/com.sun.javafx.fxml.BeanAdapter.put(BeanAdapter.java:258)
+	at javafx.fxml/com.sun.javafx.fxml.BeanAdapter.put(BeanAdapter.java:54)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.applyProperty(FXMLLoader.java:522)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:372)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:334)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:244)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processEndElement(FXMLLoader.java:777)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processEndElement(FXMLLoader.java:2924)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2639)
+	... 9 more
+
+[INFO] - 08.12.21 - 13:58:45 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 13:58:45 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 13:58:46 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 13:59:17 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 13:59:17 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 13:59:18 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 14:00:22 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:00:22 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:00:22 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 14:01:04 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:01:04 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:01:05 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 14:01:18 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:01:18 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:01:18 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:01:21 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 2:01:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:01:47 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 08.12.21 - 14:03:06 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:03:06 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:03:07 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:03:09 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:04:04 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:04:04 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:04:05 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:04:06 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 2:04:09 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:04:54 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:04:54 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:04:54 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:04:56 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:05:30 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:05:30 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:05:31 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:05:32 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:12:35 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:12:35 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:12:36 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:12:37 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:12:38 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:14:54 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:14:54 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:14:55 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 14:15:34 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:15:34 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:15:35 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:15:38 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:15:38 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 2:15:53 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:16:08 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:16:18 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 2:16:18 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 2:16:20 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 14:18:09 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 14:18:09 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 14:18:09 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 2:18:12 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 08.12.21 - 16:12:01 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:12:01 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:12:02 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 16:12:21 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:12:22 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:12:22 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 08.12.21 - 16:13:14 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:13:14 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:13:15 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:13:16 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:13:16 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:15:15 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:15:15 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:15:16 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:15:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:15:19 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 08, 2021 4:15:21 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:16:38 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:16:39 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:16:39 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:16:42 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:16:42 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:17:09 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:17:09 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:17:10 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:17:11 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:17:12 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:17:39 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:17:39 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:17:40 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:17:41 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:17:41 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:18:55 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:18:55 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:18:56 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:18:57 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:18:57 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+[INFO] - 08.12.21 - 16:20:17 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/88791-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 08.12.21 - 16:20:17 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 08.12.21 - 16:20:18 - com.cw.controller.AppController.init:84  -  successfully started
+12月 08, 2021 4:20:19 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 08, 2021 4:20:19 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.

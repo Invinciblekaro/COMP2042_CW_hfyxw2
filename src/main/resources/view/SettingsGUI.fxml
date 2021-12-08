@@ -14,7 +14,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="mainPane" prefHeight="800.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cw.controller.SettingsController">
+<AnchorPane fx:id="mainPane" id="cu-background2" stylesheets="@../css/style.css" prefHeight="800.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cw.controller.SettingsController">
     <children>
         <Label layoutX="249.0" layoutY="24.0" text="Settings">
             <font>

@@ -1,0 +1,6 @@
+[INFO] - 05.12.21 - 22:46:53 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 05.12.21 - 22:46:53 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 05.12.21 - 22:46:54 - com.cw.controller.AppController.init:84  -  successfully started
+[INFO] - 05.12.21 - 22:47:20 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/bubbleblue/support/2112/42993-1207-500/brick-destroy-fx/log/brick destroy/error.log)
+[INFO] - 05.12.21 - 22:47:20 - com.cw.App.init:67  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 05.12.21 - 22:47:21 - com.cw.controller.AppController.init:84  -  successfully started

@@ -59,7 +59,7 @@ public class LevelPackSelectController implements CommandLineAvailabale {
         pane.setHbarPolicy(ScrollBarPolicy.NEVER);
         pane.setVbarPolicy(ScrollBarPolicy.AS_NEEDED);
 
-        pane.setStyle("-fx-background-color:transparent;");
+        // pane.setStyle("-fx-background-color:transparent;");
 
         mainPane.setOnKeyReleased(event -> {
             if (event.getCode().toString().equals(controller.bundle.getObject("shortcut.debug.console"))) {
