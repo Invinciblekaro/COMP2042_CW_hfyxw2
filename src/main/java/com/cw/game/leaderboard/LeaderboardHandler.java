@@ -50,8 +50,8 @@ public class LeaderboardHandler {
 
     public static List<Leaderboard> sort(List<Leaderboard> list){
         for (Leaderboard leaderboard : list) {
-            leaderboard.getPlayerInfos().sort((x,y) -> Integer.compare(y.getPoint(), x.getPoint()));
-            // leaderboard.getPlayerInfos().sort(Comparator.comparing(PlayerInfo::getPoint));
+//            leaderboard.getPlayerInfos().sort((x,y) -> Integer.compare(y.getPoint(), x.getPoint()));
+             leaderboard.getPlayerInfos().sort(Comparator.comparing(PlayerInfo::getPoint));
         }
         return list;
     }

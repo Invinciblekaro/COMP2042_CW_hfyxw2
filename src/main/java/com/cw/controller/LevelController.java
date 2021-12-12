@@ -962,7 +962,7 @@ public class LevelController implements CommandLineAvailabale {
         if (match) {
             for (int i = 0; i < playerInfos.size(); i++) {
                 PlayerInfo playerInfo = playerInfos.get(i);
-                if (Objects.equals(username, playerInfo.getName()) && playerInfo.getPoint() > totalPoints) {
+                if (Objects.equals(username, playerInfo.getName()) && playerInfo.getPoint() < totalPoints) {
                     playerInfo.setPoint(totalPoints);
                     break;
                 }

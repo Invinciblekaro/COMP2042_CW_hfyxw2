@@ -36,5 +36,15 @@ public class LevelPack
 	public ArrayList<Level> getLevels()
 	{
 		return levels;
-	}      
+	}
+
+    @Override
+    public String toString() {
+        return "LevelPack{" +
+                "packageName='" + packageName + '\'' +
+                ", packageAuthor='" + packageAuthor + '\'' +
+                ", version='" + version + '\'' +
+                ", levels=" + levels +
+                '}';
+    }
 }

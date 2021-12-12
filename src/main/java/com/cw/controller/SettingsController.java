@@ -89,6 +89,7 @@ public class SettingsController implements CommandLineAvailabale {
     }
 
     public void save() {
+        game.getSettings().setUsername(textUsername.getText());
         game.getSettings().setGameSize(comboBoxResolution.getValue());
         game.getSettings().setLanguage(comboBoxLanguage.getValue());
         game.getSettings().setMuted(!checkBoxSound.isSelected());

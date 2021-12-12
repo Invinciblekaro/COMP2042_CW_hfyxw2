@@ -68,4 +68,18 @@ public class Level
 	public void setLeaderboard(String leaderboard) {
 		leaderboard = leaderboard;
 	}
+
+	@Override
+	public String toString() {
+		return "Level{" +
+				"name='" + name + '\'' +
+				", author='" + author + '\'' +
+				", position=" + position +
+				", difficulty=" + difficulty +
+				", startLives=" + startLives +
+				", initPadSize=" + initPadSize +
+				", board='" + board + '\'' +
+				", leaderboard='" + leaderboard + '\'' +
+				'}';
+	}
 }
