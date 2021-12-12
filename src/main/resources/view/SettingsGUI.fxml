@@ -14,9 +14,9 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="mainPane" id="cu-background2" stylesheets="@../css/style.css" prefHeight="800.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cw.controller.SettingsController">
+<AnchorPane fx:id="mainPane" id="cu-background2" stylesheets="@../css/style.css" prefHeight="1600.0" prefWidth="1600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.cw.controller.SettingsController">
     <children>
-        <Label layoutX="249.0" layoutY="24.0" text="Settings">
+        <Label layoutX="249.0" layoutY="24.0" text="Settings" textFill="white">
             <font>
                 <Font name="System Bold" size="40.0" />
             </font>
@@ -27,22 +27,22 @@
                     <children>
                         <VBox alignment="TOP_CENTER" spacing="50.0" HBox.hgrow="ALWAYS">
                             <children>
-                                <Label text="Username:">
+                                <Label text="Username:" textFill="white">
                                    <font>
                                       <Font size="25.0" />
                                    </font>
                                 </Label>
-                                <Label text="Resolution:">
+                                <Label text="Resolution:" textFill="white">
                                     <font>
                                         <Font name="System Bold" size="25.0" />
                                     </font>
                                 </Label>
-                                <Label text="Language:">
+                                <Label text="Language:" textFill="white">
                                     <font>
                                         <Font name="System Bold" size="25.0" />
                                     </font>
                                 </Label>
-                                <Label text="Sound:">
+                                <Label text="Sound:" textFill="white">
                                     <font>
                                         <Font name="System Bold" size="25.0" />
                                     </font>
@@ -51,10 +51,10 @@
                         </VBox>
                         <VBox prefHeight="250.0" prefWidth="330.0" spacing="50.0" HBox.hgrow="ALWAYS">
                             <children>
-                                <TextField fx:id="textUsername" maxWidth="290.0" prefHeight="35.0" prefWidth="290.0" />
+                                <TextField fx:id="textUsername" maxWidth="290.0" prefHeight="35.0" prefWidth="290.0"  />
                                 <ComboBox fx:id="comboBoxResolution" maxWidth="290.0" prefHeight="35.0" prefWidth="290.0" />
                                 <ComboBox fx:id="comboBoxLanguage" prefHeight="31.0" prefWidth="290.0" />
-                                <CheckBox fx:id="checkBoxSound" mnemonicParsing="false" prefHeight="35.0" text="Activated">
+                                <CheckBox fx:id="checkBoxSound" mnemonicParsing="false" prefHeight="35.0" text="Activated" textFill="crimson">
                                     <font>
                                         <Font name="System Bold" size="18.0" />
                                     </font>
@@ -75,7 +75,7 @@
                     </children>
                 </HBox>
                 <Separator prefWidth="200.0" />
-                <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Controls">
+                <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Controls" textFill="darksalmon">
                     <font>
                         <Font name="System Bold" size="25.0" />
                     </font>
