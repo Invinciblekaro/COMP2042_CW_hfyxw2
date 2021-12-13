@@ -1,5 +1,7 @@
 #COMP2042 SM Coursework - BRICK DESTROYER- Wang Xubin
 
+#### Javedocs and Git history screenshot saved under the readme file ！！！
+
 #  Project Introduction
 
 This project is built using `jdk17`、`javafx15`、`maven3.6.1`.
