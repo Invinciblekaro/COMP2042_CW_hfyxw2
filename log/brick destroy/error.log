@@ -5552,3 +5552,30 @@ Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
 [INFO] - 12.12.21 - 21:09:14 - com.cw.controller.AppController.init:84  -  successfully started
 12月 12, 2021 9:09:17 下午 javafx.fxml.FXMLLoader$ValueElement processValue
 警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 12.12.21 - 22:50:09 - com.cw.utils.logger.Logger.enableFileOutput:132  -  File output enabled (/Users/karo/Desktop/Wang_Xubin_IntelliJ_2020./log/brick destroy/error.log)
+[INFO] - 12.12.21 - 22:50:09 - com.cw.App.init:63  -  brick destroy - v1.0.0 - (versioncode: 1) from 21.11.30)
+[INFO] - 12.12.21 - 22:50:10 - com.cw.controller.AppController.init:84  -  successfully started
+12月 12, 2021 10:50:14 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 12, 2021 10:50:20 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 12, 2021 10:50:20 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 12, 2021 10:50:22 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+12月 12, 2021 10:50:22 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 12, 2021 10:50:23 下午 javafx.fxml.FXMLLoader$ValueElement processValue
+警告: Loading FXML document with JavaFX API of version 16 by JavaFX runtime of version 15.0.1
+[INFO] - 12.12.21 - 22:50:23 - com.cw.controller.LevelController.startGame:137  -  ball start
+[DEBUG] - 12.12.21 - 22:50:25 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 53
+[DEBUG] - 12.12.21 - 22:50:26 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+[DEBUG] - 12.12.21 - 22:50:27 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 61
+[DEBUG] - 12.12.21 - 22:50:27 - com.cw.game.Game.collides:272  -  BOTTOM
+[DEBUG] - 12.12.21 - 22:50:28 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 59
+[DEBUG] - 12.12.21 - 22:50:28 - com.cw.game.Game.hitsWall:226  -  RIGHT-WALL
+[DEBUG] - 12.12.21 - 22:50:29 - com.cw.controller.LevelController$1.handle:376  -  current FPS: 60
+12月 12, 2021 10:50:32 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
+12月 12, 2021 10:50:33 下午 com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+警告: Resource "css/style.css" not found.
