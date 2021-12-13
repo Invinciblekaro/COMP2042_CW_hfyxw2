@@ -57,4 +57,3 @@ list - lists all possible commands
 ```
 
 #REPOSITORY url: https://github.com/Invinciblekaro/COMP2042_CW_hfyxw2
-git history.png
