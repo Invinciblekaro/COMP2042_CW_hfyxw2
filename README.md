@@ -1,6 +1,6 @@
 #COMP2042 SM Coursework - BRICK DESTROYER- Wang Xubin
 
-#### Javedocs and Git history screenshot saved under the readme file ！！！
+# Javedocs and Git history screenshot saved under the readme file ！！！
 
 #  Project Introduction
 
